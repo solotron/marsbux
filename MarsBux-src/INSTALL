@@ -1,0 +1,9 @@
+Building MarsBux
+
+See doc/readme-qt.rst for MARS on building MarsBux-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MarsBux.
+
+See doc/build-*.txt for MARS on building MarsBuxd,
+the intended-for-services, no-graphical-interface, reference
+implementation of MarsBux.
