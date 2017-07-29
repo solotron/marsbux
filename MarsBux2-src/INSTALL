@@ -1,0 +1,9 @@
+Building MarsBux2
+
+See doc/readme-qt.rst for instructions on building MarsBux2-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MarsBux2.
+
+See doc/build-*.txt for instructions on building MarsBux2d,
+the intended-for-services, no-graphical-interface, reference
+implementation of MarsBux2.
